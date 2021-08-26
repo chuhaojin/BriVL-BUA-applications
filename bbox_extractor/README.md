@@ -1,6 +1,8 @@
 # Bottom Up Attention For Application
 
-This object detection tool implements from [bottom-up-attention](https://github.com/peteanderson80/bottom-up-attention) project and [bottom-up-attention.pytorch](https://github.com/MILVLG/bottom-up-attention.pytorch) project. This tool has been used in the application *AI's Imaginary World* for  **BriVL**'s data preprocessing.
+This object detection tool implements from [bottom-up-attention](https://github.com/peteanderson80/bottom-up-attention) project and [bottom-up-attention.pytorch](https://github.com/MILVLG/bottom-up-attention.pytorch) project. This tool has been used in the application *AI's Imaginary World* for  **BriVL**'s data preprocessing. 
+
+**The environment of this repo is easier to build, for the dependency on the cython version in the original repo is fixed**
 
 
 
