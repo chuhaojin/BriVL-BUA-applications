@@ -25,7 +25,7 @@ This repo contains two parts:
 - BriVL Feature Extractor: ./BriVL
 
 
-## Test this Pipline
+## Test this Pipeline
 
 Test image has been saved in **./bbox_extractor/feature_extractor**, test with following command:
 
