@@ -12,11 +12,11 @@ This repo is Used for illustrating how to build applications by using **BriVL** 
 
 ## Online Demo built by BriVL
 
-[AI's Imaginary World](http://buling.wudaoai.cn/)
+- [AI's Imaginary World](http://buling.wudaoai.cn/)
 
-[Soul Music](https://weixin.elensdata.com/)
+- [Soul Music](https://weixin.elensdata.com/)
 
-[Few Word](http://120.92.50.21:6177/)
+- [Few Word](http://120.92.50.21:6177/)
 
 
 ## Contents
