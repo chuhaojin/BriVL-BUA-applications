@@ -40,7 +40,7 @@ python3 main.py --brivl_cfg BriVL/cfg/BriVL_cfg.yml --brivl_weights BriVL/weight
 - [bua-caffe-frcn-r101\_with\_attributes.pth](https://drive.google.com/file/d/1oquCwDEvuJPeU7pyPg-Yudj5-8ZxtG0W/view) -> /bbox_extractor/weights
 - [chinese-roberta-wwm-ext](https://huggingface.co/hfl/chinese-roberta-wwm-ext)  ->  /BriVL/weights/hfl
 - [tf_efficientnet_b5_ns-6f26d0cf.pth](https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_efficientnet_b5_ns-6f26d0cf.pth) ->  /BriVL/weights
-- [brivl-weights.pth](https://wudaoai.cn/model/detail/BriVL) ->  /BriVL/weights
+- [brivl-weights.pth\*](https://wudaoai.cn/model/detail/BriVL) ->  /BriVL/weights
 
 ## Requirements
 
