@@ -21,13 +21,13 @@ This repo is used for illustrating how to build applications by using **BriVL** 
 
 ## Contents
 This repo contains two parts:
-- Bounding Box Extractor: './bbox_extractor'
-- BriVL Feature Extractor: './BriVL'
+- Bounding Box Extractor: `./bbox_extractor`
+- BriVL Feature Extractor: `./BriVL`
 
 
 ## Test this Pipeline
 
-Test image has been saved in'./bbox_extractor/feature_extractor', test with following command:
+Test image has been saved in `./bbox_extractor/feature_extractor`, test with following command:
 
 ```
 python3 main.py --brivl_cfg BriVL/cfg/BriVL_cfg.yml --brivl_weights BriVL/weights/brivl-weights.pth
@@ -37,10 +37,10 @@ python3 main.py --brivl_cfg BriVL/cfg/BriVL_cfg.yml --brivl_weights BriVL/weight
 
 ## Download Models
 
-- [bua-caffe-frcn-r101\_with\_attributes.pth](https://drive.google.com/file/d/1oquCwDEvuJPeU7pyPg-Yudj5-8ZxtG0W/view) -> '/bbox_extractor/weights'
-- [chinese-roberta-wwm-ext](https://huggingface.co/hfl/chinese-roberta-wwm-ext)  ->  '/BriVL/weights/hfl'
-- [tf_efficientnet_b5_ns-6f26d0cf.pth](https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_efficientnet_b5_ns-6f26d0cf.pth) ->  '/BriVL/weights'
-- [brivl-weights.pth\*](https://wudaoai.cn/model/detail/BriVL) ->  '/BriVL/weights'
+- [bua-caffe-frcn-r101\_with\_attributes.pth](https://drive.google.com/file/d/1oquCwDEvuJPeU7pyPg-Yudj5-8ZxtG0W/view) -> `/bbox_extractor/weights`
+- [chinese-roberta-wwm-ext](https://huggingface.co/hfl/chinese-roberta-wwm-ext)  ->  `/BriVL/weights/hfl`
+- [tf_efficientnet_b5_ns-6f26d0cf.pth](https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/tf_efficientnet_b5_ns-6f26d0cf.pth) ->  `/BriVL/weights`
+- [brivl-weights.pth\*](https://wudaoai.cn/model/detail/BriVL) ->  `/BriVL/weights`
 
 ## Requirements
 
