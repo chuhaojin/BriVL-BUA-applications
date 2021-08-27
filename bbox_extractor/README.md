@@ -13,7 +13,9 @@ This object detection tool implements from [bottom-up-attention](https://github.
 - [Cuda](https://developer.nvidia.com/cuda-toolkit) >= 9.2 and [cuDNN](https://developer.nvidia.com/cudnn)
 - [Detectron2](https://github.com/facebookresearch/detectron2/releases/tag/v0.3) <= 0.3
 
-### Install Pre-Built Detectron2 (Linux only)
+**Important: The version of Detectron2 should be 0.3 or below.**
+
+**Install Pre-Built Detectron2 (Linux only)**
 
 Choose from this table to install [v0.3 (Nov 2020)](https://github.com/facebookresearch/detectron2/releases):
 
@@ -45,7 +47,7 @@ Choose from this table to install [v0.3 (Nov 2020)](https://github.com/facebookr
   https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.5/index.html
 </code></pre> </details> </td> </tr></tbody></table>
 
-**Important: The version of Detectron2 should be 0.3 or below.**
+
 
 *Anaconda is recommended.*
 
