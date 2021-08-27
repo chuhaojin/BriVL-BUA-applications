@@ -34,8 +34,8 @@ print("Text query:", text_query)
 print("Text feature:", text_fea)
 
 # Extract image feature.
-img_path = 'bbox_extractor/feature_extractor/test.png'
-bboxes = np.load('bbox_extractor/feature_extractor/test.npz')['bbox'].tolist()
+img_path = 'bbox_extractor/test_data/test.png'
+bboxes = np.load('bbox_extractor/test_data/test.npz')['bbox'].tolist()
 img_fea = img_extra.extract(img_path, bboxes)
 print("Image path:", img_path)
 print("Image feature:", img_fea)
