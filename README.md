@@ -1,4 +1,4 @@
-# BriVL for Building Applications
+# BriVL for application development
 
 This repo is used for illustrating how to build applications by using **BriVL** model.
 
